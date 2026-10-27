@@ -97,7 +97,7 @@
 
         private void btnregistrar_MouseClick(object sender, MouseEventArgs e)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         #endregion
